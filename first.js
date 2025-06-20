@@ -8,3 +8,5 @@ function sure(){
    age+=20; 
 }
 const account = 230;
+
+console.log("Hello Coder");
