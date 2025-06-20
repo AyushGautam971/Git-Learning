@@ -6,3 +6,8 @@ function val(sum){
     console.log(sum);
 }
 val(10);
+
+function sure(){
+   age+=20; 
+}
+const account = 230;
