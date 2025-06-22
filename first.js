@@ -8,3 +8,4 @@ console.log("merge");
 console.log(20+50);
 
 console.log("latest update");
+console.log("bug fixed");
